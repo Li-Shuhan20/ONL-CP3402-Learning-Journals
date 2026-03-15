@@ -1,5 +1,5 @@
-# 25 / Feb / 2026
-## Week 5 - WordPress: Developing Child Themes
+# 1 / Apr / 2026
+## Week 9 - CSS pre-processing with Sass
 ## Learning Activities & Resources
 
 

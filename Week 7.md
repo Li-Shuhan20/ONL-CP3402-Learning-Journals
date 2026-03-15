@@ -1,5 +1,5 @@
-# 25 / Feb / 2026
-## Week 5 - WordPress: Developing Child Themes
+# 18 / Mar / 2026
+## Week 7 - PHP Programming
 ## Learning Activities & Resources
 
 

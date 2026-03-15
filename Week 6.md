@@ -1,5 +1,5 @@
-# 25 / Feb / 2026
-## Week 5 - WordPress: Developing Child Themes
+# 11 / Mar / 2026
+## Week 6 - Project/client introduction, group project management
 ## Learning Activities & Resources
 
 
