@@ -28,6 +28,7 @@ PHP is a language that runs entirely on the server side. Any content before bein
  When I viewed the page source code through the browser, all I saw was <p>Hello World</p>  The PHP code had completely disappeared. This means that users will never be able to see my PHP logic, which is extremely important for security.
 
 ### The embedded feature of PHP
+
 What amazed me the most was the seamless integration of PHP and HTML. A single.php file can both contain HTML tags and can be used with "<?" php ...” Switch to the PHP mode after the sentence. ? Then switch back to the HTML format. For instance, I created a page that displays different greetings based on different times of the day:
 
 ```PHP
@@ -52,8 +53,11 @@ I found it took some time to get used to the \$ symbol before a variable. In Jav
 # Career/Employability/Learning Insights
 
 ### Connect these points: from WordPress users to WordPress developers
+
 Previously, my understanding of WordPress was limited to the user level - I could install themes, create content and configure settings. But PHP knowledge serves as the bridge between being a WordPress user and a developer. Now when I look at a theme file like header.php, I can see the HTML structure contained within and PHP functions like bloginfo('name') that can dynamically retrieve content from the database. This shift in perspective is of great significance. I can now envision myself not only choosing a theme, but also modifying it to add custom functionality.
+
 ### Custom Sidebar Issue
+
 During my previous learning, I wanted to add a custom sidebar to a WordPress website. This sidebar would display different content based on the current user's login status. I searched for plugins and found one that could roughly achieve this, but still couldn't get it completely right. Now I understand that I can solve this problem using PHP:
 
 ```php
@@ -73,6 +77,9 @@ During my previous learning, I wanted to add a custom sidebar to a WordPress web
 This is a simple example, but it represents the kind of custom functionality that plugins usually don't provide. Having the ability to write such code makes me more independent and valuable, especially for employers who need customized solutions.
 
 ### Security thinking mode
+
 The `htmlspecialchars()` function and its role in preventing XSS attacks have made me realize the need for a certain security thinking mode. When I first started learning web development, I only focused on making things work properly. Now I understand that making things work properly is only half of the task - the other half is to ensure its security. In professional environments, security vulnerabilities can have serious consequences.
+
 ### Determine my next learning direction
+
 After this week's study, I have realized that I have some deficiencies that need to be addressed. I have gained a general understanding of PHP's syntax and related concepts, but I haven't been able to build anything substantial with it yet. My plan is to create a small custom WordPress plugin - perhaps a simple contact form that stores submitted content in a custom database table. This project will combine form processing, database operations, security considerations, and the unique features of WordPress. By building such a specific thing, these concepts will become more solid, and it will also provide me with a resume piece that can be shown to potential employers.
